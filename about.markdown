@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+- This is my personal blog. My ideas. My experiences. My thoughts.
+- Noone really cares if you like them all or not
+- Noone really cares if something I mention here is wrong, lie, outdated, etc
+- I am a 1984 kid. Means nothing
+- Passionate about tech, always searching and developing my knowledge _only_ in the sectors I really care
+- I have an actual life, even if thats not so obvious
+- Keyboards is my main hobby at the moment
+- I was a street artist for a long time. I was marking my place, I ll even do it now when I can
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

@@ -14,3 +14,4 @@ permalink: /about/
 - I was a street artist for a long time. I was marking my place, I ll even do it now when I can
 
 ![useful image](/assets/pinknorba.jpeg)
+_image is not mine

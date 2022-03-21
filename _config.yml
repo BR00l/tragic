@@ -29,7 +29,7 @@ github_username:  BR00l
 discord_username: keikenhate#5181
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

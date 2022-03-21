@@ -13,4 +13,4 @@ permalink: /about/
 - Keyboards is my main hobby at the moment
 - I was a street artist for a long time. I was marking my place, I ll even do it now when I can
 
-![useful image]({{ site.url }}https://github.com/BR00l/tragic/blob/main/assets/pinknorba.jpeg)
+![useful image](/assets/pinknorba.jpeg)

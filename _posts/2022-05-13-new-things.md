@@ -28,4 +28,4 @@ categories: MX
 
       Building this one was fun and fast! It has 4 screws in the external shell, and some more in the internal. Quality is not here with us on this, but I don't whine at all! This board is totally a keeper.
 
-      ![Replica logo]({{ '/assets/ncr1.jpg' | relative_url }})
+      ![Replica logo]({{ '/Users/keiken/Gitpulls/tragic/assets/ncr1.JPG' | relative_url }})

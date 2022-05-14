@@ -19,7 +19,7 @@ published: false
 
   Lets take one thing at a time because my thoughts are running faster than my hands.
 
-  # N C R 8 0 P l a s t i c M a g i c # 
+  ## N C R 8 0 P l a s t i c M a g i c
 
     I was just messing around in the "mykeyboard.eu" discord channel, looking at the deals. I had some moneys spare, due to some *HOT SALES* (I ll expand to this in a future post), so I wanted to grab something not expensive, but kinda intresting. And this because I think I need a hotswap board just to break in some swiches from time to time, and nothing beats a HS board to this.
 
